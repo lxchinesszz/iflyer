@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="iflyer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="iflyer.war">
+      <element id="artifact" artifact-name="iflyer:war exploded" />
+    </root>
+  </artifact>
+</component>
